@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LineSDK",
+        "repositoryURL": "https://github.com/line/line-sdk-ios-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "2788da31df71156f6dfd992080d3621da45a8734",
+          "version": "5.8.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
